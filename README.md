@@ -83,7 +83,7 @@ if (user.getPurchaseHistory().contains("SUV")) {
 
 # Author
 
-**Siddhant Singh**  
+**Siddhant Soni**  
 GitHub: [@Siddhant-S25](https://github.com/Siddhant-S25)
 ---------------------------------------------------------------
 # License
